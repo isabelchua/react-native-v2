@@ -11,10 +11,11 @@ export default function App() {
 					style={styles.image}
 				/>
 				<View style={styles.titles}>
-					<Text style={styles.title}>Model S s</Text>
+					<Text style={styles.title}>Model S</Text>
 					<Text style={styles.subtitle}>Starting at $69,999</Text>
 				</View>
 			</View>
+
 			<StatusBar style="auto" />
 		</View>
 	);
